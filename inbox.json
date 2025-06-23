@@ -3,12 +3,12 @@
     "id": "001",
     "from": "hr@company.com",
     "subject": "Interview Invitation",
-    "body": "We\'92d love to schedule an interview with you this week..."
+    "body": "We\92d love to schedule an interview with you this week..."
   },
   {
     "id": "002",
     "from": "news@newsletter.com",
     "subject": "Weekly Dev Digest",
-    "body": "Here\'92s what happened in tech this week..."
+    "body": "Here\92s what happened in tech this week..."
   }
 ]
