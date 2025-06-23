@@ -1,0 +1,7 @@
+import json
+emails = json.load(open("inbox.json"))
+
+for email in emails:
+    result = classify_email(email)
+    print(f"Email ID: \{email['id']\}")
+    print(result)
